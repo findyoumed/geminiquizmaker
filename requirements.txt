@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+langchain
+PyPDF2
+python-docx
+python-dotenv
+tiktoken
+aiohttp
